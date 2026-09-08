@@ -548,7 +548,7 @@ git clone https://github.com/Viren501/crop_health_ai.git
 Enter the project directory:
 
 ```bash
-cd Crop_Disease_Prediction
+cd crop_health_ai
 ```
 
 ### 2. Create a Virtual Environment
