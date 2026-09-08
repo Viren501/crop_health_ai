@@ -362,7 +362,7 @@ if uploaded_file is not None:
 
 with st.sidebar:
 
-    st.title("🌱 Crop Disease AI")
+    st.title("🌱 Crop Health AI")
 
     st.divider()
 
