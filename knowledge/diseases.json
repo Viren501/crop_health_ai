@@ -1,1 +1,194 @@
-#
+{
+    "Potato___Early_Blight": {
+        "crop": "Potato",
+        "disease": "Early Blight",
+        "description": "Early blight is a fungal disease that can affect potato leaves and cause dark lesions and premature loss of foliage.",
+        "management": [
+            "Remove and destroy severely infected plant material.",
+            "Remove infected crop debris from the field.",
+            "Maintain good airflow between plants.",
+            "Avoid prolonged leaf wetness where possible.",
+            "Monitor the crop regularly for new symptoms."
+        ],
+        "prevention": [
+            "Use healthy planting material.",
+            "Practice crop rotation.",
+            "Maintain good field sanitation.",
+            "Monitor plants regularly for early symptoms."
+        ]
+    },
+
+    "Potato___Late_Blight": {
+        "crop": "Potato",
+        "disease": "Late Blight",
+        "description": "Late blight is a serious potato disease that can rapidly damage leaves and stems under favorable environmental conditions.",
+        "management": [
+            "Remove severely infected plant material.",
+            "Remove infected crop debris.",
+            "Improve airflow around plants.",
+            "Avoid unnecessary leaf wetness.",
+            "Monitor the crop frequently."
+        ],
+        "prevention": [
+            "Use healthy planting material.",
+            "Remove volunteer potato plants.",
+            "Practice crop rotation.",
+            "Maintain good field hygiene."
+        ]
+    },
+
+    "Potato___Healthy": {
+        "crop": "Potato",
+        "disease": "Healthy",
+        "description": "The image was classified as a healthy potato leaf by the disease detection model.",
+        "management": [
+            "Continue regular crop monitoring.",
+            "Maintain appropriate irrigation and nutrition.",
+            "Maintain good field hygiene."
+        ],
+        "prevention": [
+            "Inspect plants regularly.",
+            "Use healthy planting material.",
+            "Remove visibly infected plant material promptly."
+        ]
+    },
+
+    "Corn___Common_Rust": {
+        "crop": "Corn",
+        "disease": "Common Rust",
+        "description": "Common rust is a fungal disease that produces rust-colored pustules on corn leaves.",
+        "management": [
+            "Monitor the crop regularly.",
+            "Remove severely affected plant material where practical.",
+            "Maintain good crop health."
+        ],
+        "prevention": [
+            "Use healthy seed.",
+            "Choose suitable resistant varieties when available.",
+            "Monitor fields regularly."
+        ]
+    },
+
+    "Corn___Gray_Leaf_Spot": {
+        "crop": "Corn",
+        "disease": "Gray Leaf Spot",
+        "description": "Gray leaf spot is a fungal disease that causes characteristic lesions on corn leaves.",
+        "management": [
+            "Monitor affected plants.",
+            "Maintain field sanitation.",
+            "Remove or properly manage infected crop residue."
+        ],
+        "prevention": [
+            "Practice crop rotation.",
+            "Use resistant varieties where available.",
+            "Maintain good field management."
+        ]
+    },
+
+    "Corn___Healthy": {
+        "crop": "Corn",
+        "disease": "Healthy",
+        "description": "The image was classified as a healthy corn leaf.",
+        "management": [
+            "Continue regular crop monitoring.",
+            "Maintain appropriate irrigation and nutrition."
+        ],
+        "prevention": [
+            "Inspect leaves regularly.",
+            "Use healthy seed.",
+            "Maintain good field hygiene."
+        ]
+    },
+
+    "Rice___Brown_Spot": {
+        "crop": "Rice",
+        "disease": "Brown Spot",
+        "description": "Brown spot is a fungal disease that produces brown lesions on rice leaves.",
+        "management": [
+            "Monitor the crop regularly.",
+            "Remove or manage infected crop residue.",
+            "Maintain balanced crop nutrition."
+        ],
+        "prevention": [
+            "Use healthy seed.",
+            "Maintain balanced fertilization.",
+            "Practice good field sanitation."
+        ]
+    },
+
+    "Rice___Leaf_Blast": {
+        "crop": "Rice",
+        "disease": "Leaf Blast",
+        "description": "Rice leaf blast is a fungal disease that can produce lesions on leaves and reduce crop productivity.",
+        "management": [
+            "Monitor fields frequently.",
+            "Remove heavily infected material where practical.",
+            "Maintain balanced crop nutrition."
+        ],
+        "prevention": [
+            "Use healthy seed.",
+            "Avoid excessive nitrogen application.",
+            "Monitor crops during favorable disease conditions."
+        ]
+    },
+
+    "Rice___Healthy": {
+        "crop": "Rice",
+        "disease": "Healthy",
+        "description": "The image was classified as a healthy rice leaf.",
+        "management": [
+            "Continue regular crop monitoring.",
+            "Maintain appropriate irrigation and nutrition."
+        ],
+        "prevention": [
+            "Use healthy seed.",
+            "Maintain good field hygiene.",
+            "Inspect crops regularly."
+        ]
+    },
+
+    "Wheat___Brown_Rust": {
+        "crop": "Wheat",
+        "disease": "Brown Rust",
+        "description": "Brown rust is a fungal disease that produces rust-colored pustules on wheat leaves.",
+        "management": [
+            "Monitor the crop regularly.",
+            "Remove severely affected material where practical."
+        ],
+        "prevention": [
+            "Use healthy seed.",
+            "Use resistant varieties where available.",
+            "Monitor fields regularly."
+        ]
+    },
+
+    "Wheat___Yellow_Rust": {
+        "crop": "Wheat",
+        "disease": "Yellow Rust",
+        "description": "Yellow rust is a fungal disease that produces yellow-orange stripe-like pustules on wheat leaves.",
+        "management": [
+            "Monitor the crop frequently.",
+            "Remove severely affected material where practical."
+        ],
+        "prevention": [
+            "Use resistant varieties where available.",
+            "Use healthy seed.",
+            "Monitor the crop regularly."
+        ]
+    },
+
+    "Wheat___Healthy": {
+        "crop": "Wheat",
+        "disease": "Healthy",
+        "description": "The image was classified as a healthy wheat leaf.",
+        "management": [
+            "Continue regular crop monitoring.",
+            "Maintain appropriate irrigation and nutrition."
+        ],
+        "prevention": [
+            "Use healthy seed.",
+            "Monitor crops regularly.",
+            "Maintain good field hygiene."
+        ]
+    }
+}
