@@ -4,6 +4,7 @@ AI-powered crop leaf disease detection using Vision Transformer, IBM Granite 4.1
 
 Built as part of the **AI for Sustainability Virtual Internship** (1M1B × AICTE × IBM SkillsBuild).
 
+👉 [View Project Report](https://docs.google.com/document/d/1GXI06AVvu7iATm8vnhDcDi26N-MYwUm7/edit?usp=drivesdk&ouid=103581085253481148530&rtpof=true&sd=true)
 ---
 
 ## Local Setup Guide
