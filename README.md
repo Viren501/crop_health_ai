@@ -134,5 +134,5 @@ Open the URL shown in the terminal (usually http://localhost:8501) in your brows
 
 ---
 
-**Designed and Developed by:** Viren Vairagi
+**Designed and Developed by:** Viren Vairagi  
 **Internship:** AI for Sustainability Virtual Internship (1M1B × AICTE × IBM SkillsBuild)
